@@ -7,13 +7,6 @@ Este repositório contém meus estudos e projetos relacionados à linguagem de p
 - Anotações e resumos de conceitos importantes
 - Exercícios e desafios de programação em Java
 
-## Estrutura do Repositório
-
-- `examples/`: Contém exemplos simples de código Java.
-- `projects/`: Projetos práticos desenvolvidos em Java.
-- `notes/`: Anotações e resumos de conceitos importantes.
-- `exercises/`: Exercícios e desafios de programação em Java.
-
 ## Como Contribuir
 
 Se você quiser contribuir com este repositório, sinta-se à vontade para enviar um pull request. Você pode adicionar novos exemplos, projetos, anotações ou exercícios. Vou revisar suas contribuições e mesclá-las, se apropriado.
