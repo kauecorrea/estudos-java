@@ -18,4 +18,4 @@ Se você quiser contribuir com este repositório, sinta-se à vontade para envia
 
 ## Contato
 
-Se você tiver alguma dúvida ou sugestão, pode me contatar através do email [seuemail@example.com](mailto:kauehenrique08@gmail.com) ou abrir uma issue neste repositório.
+Se você tiver alguma dúvida ou sugestão, pode me contatar através do email [kauehenrique08@gmail.com](mailto:kauehenrique08@gmail.com) ou abrir uma issue neste repositório.
