@@ -46,6 +46,30 @@ public class TipoString {
 				"\nIdade: " + idade + 
 				"\nSalario: " + salario);
 		
+		// Do mesmo jeito q fizemos em cima, podemos colocar tudo em uma variavel so
+		String maisUmaFrase = "Nome: " + nome + 
+				"\nSobrenome: " + sobrenome + 
+				"\nIdade: " + idade + 
+				"\nSalario: " + salario;
+		System.out.println(maisUmaFrase);
+		
+		//podemos puxar a string colocando %(variavel) q nem no exemplo abaixo
+		System.out.printf("O senhor %s %s tem %d anos e ganha R$ %.2f", nome, sobrenome, idade, salario);
+		
+		String frase = String.format("\nO senhor %s %s tem %d anos e ganha R$ %.2f", nome, sobrenome, idade, salario);
+		System.out.println(frase);
+		
+		// o.contains serve verificar se esta verdadeiro algo que esta dentro da variavel como no exemplo "qual"
+		//como tem, entao vai dar true
+		
+		System.out.println("Frase qualquer".contains("qual"));
+		
+		//.indexOf serve para saber em qual posição esta o caractere como no exemplo abaixo
+		System.out.println("Frase qualquer".indexOf("qual"));
+		
+		// .substring serve para começar ou terminar a variavel da posição especificada igual o exemplo abaixo
+		System.out.println("Frase qualquer".substring(6, 8));
+		
 	}
 
 }
