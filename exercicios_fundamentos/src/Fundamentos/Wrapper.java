@@ -10,6 +10,7 @@ public class Wrapper {
 		Integer i = 10000;
 		Long l = 100000;
 		
+		System.out.println(b, s, i, l);
 		
 	}
 
