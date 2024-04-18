@@ -9,8 +9,11 @@ public class ConversaoNumeroString {
 		
 		//outra forma de converter
 		int num2 = 100000;
+		//toString serve para converter para string
 		System.out.println(Integer.toString(num2).length());
 		
+		System.out.println(("" + num1).length());
+		System.out.println(("" + num2).length());
 		
 	}
 
