@@ -29,7 +29,7 @@ public class Logicos {
 		//só pode ter um verdadeiro, ou é um ou é outro. pegou a parada? (XOR, ^)
 		System.out.println("\nTabela Verdade OU Exclusivo (XOR)");
 		System.out.println(true ^ true);
-		System.out.println(true ^  false);
+		System.out.println(true ^ false);
 		System.out.println(false ^ true);
 		System.out.println(false ^ false);
 		
