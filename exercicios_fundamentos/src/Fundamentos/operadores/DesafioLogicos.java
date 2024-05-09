@@ -7,14 +7,21 @@ public class DesafioLogicos {
 		// Trabalho na terça (V ou F)
 		// Trabalho na quinta (V ou F)
 		
-		//logica do &&
-		boolean trabalho1 = true;
-		boolean trabalho2 = true;
 		
-		boolean comprouTv50 = trabalho1 && trabalho2;
+		boolean trabalho1 = false;
+		boolean trabalho2 = false;
 		
-		System.out.println("Comprou Tv 50\"? " + comprouTv50);
+		boolean comprouTV50 = trabalho1 && trabalho2;
+		boolean comprouTV32 = trabalho1 ^ trabalho2;
+		boolean comprouSorvete = trabalho1 || trabalho2;
+		//operador unario
+		boolean maisSaudavel = !comprouSorvete;
 		
+		System.out.println("Comprou Tv 50\"? " + comprouTV50);
+		System.out.println("Comprou Tv 32\"? " + comprouTV32);
+		System.out.println("Comprou sorvete? " + comprouSorvete);
+		System.out.println("Mais saudável? " + maisSaudavel);
+
 	}
 
 }
