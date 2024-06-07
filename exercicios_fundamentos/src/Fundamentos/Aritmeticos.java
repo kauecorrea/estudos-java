@@ -27,7 +27,7 @@ public class Aritmeticos {
 		System.out.println(a * b);
 		//fazemos o CAST para aparecer o valor quebrado da divisao
 		System.out.println(a / (double) b);
-		
+		//
 		//mod (%) = resto da divisão
 		System.out.println(8 % 3);
 
