@@ -25,7 +25,7 @@ public class IF {
 		if(criterioReprovacaoAtingido) {
 			System.out.println("Reprovado");
 		}
-		
+		//
 		sc.close();
 
 	}
