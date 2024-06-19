@@ -10,7 +10,7 @@ public class Main {
 		
 		int numero = sc.nextInt();
 		int numero2 = sc.nextInt();
-		
+		//somar
 		int soma = numero + numero2;
 		
 		System.out.println("SOMA = " + soma);
