@@ -6,7 +6,7 @@ public class IF {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
-		// if
+		
 		System.out.print("Informe a média: ");
 		double media = sc.nextDouble();
 		
