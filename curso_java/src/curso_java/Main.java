@@ -20,6 +20,7 @@ public class Main {
 		Locale.setDefault(Locale.US);
 		// caso dê erro basta colocar o seguinte comando "import java.util.Locale;"
 		
+		//sysout
 		
 		System.out.printf("%.2f%n", z);
 		
